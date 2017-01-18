@@ -26,5 +26,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="OCR result will be here"
+        android:scrollbars="vertical"
         android:layout_below="@+id/action_btn"/>
 </RelativeLayout>
